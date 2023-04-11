@@ -1,1 +1,1 @@
-# quote-of-the-day-projec
+# quote-generator
